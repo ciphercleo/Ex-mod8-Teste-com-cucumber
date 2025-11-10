@@ -29,7 +29,6 @@ De acordo com o enunciado da tarefa:
 ## 🛠️ Pré-requisitos
 
 - **Visual Studio Code**
-- **Conta no GitHub**
 
 ---
 
@@ -37,7 +36,6 @@ De acordo com o enunciado da tarefa:
 
 - **Gherkin / Cucumber**
 - **VS Code**
-- (Opcional) **Git** e **GitHub Desktop**
 
 ---
 
